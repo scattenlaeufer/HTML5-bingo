@@ -13,7 +13,7 @@ var JSONBingo = {"squares": [
 		{"square": "GO-Antrag"},
 		{"square": "Soll hei&#223;t muss wenn kann!"},
 		{"square": "Bj&#246;rg"},
-		{"square": "Konschdanz"},
+		{"square": "Selbstbericht"},
 		{"square": "Konschdanz"},
 		{"square": "Konschdanz"},
 		{"square": "Konschdanz"},
