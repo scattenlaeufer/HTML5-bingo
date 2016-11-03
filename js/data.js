@@ -10,35 +10,41 @@ var clickSnd = new Audio("audio/click.mp3");
 var winSnd = new Audio("audio/win.mp3");
 
 var JSONBingo = {"squares": [
-		{"square": "GO-Antrag"},
-		{"square": "Soll hei&#223;t muss wenn kann!"},
-		{"square": "Bj&#246;rg"},
-		{"square": "Selbstbericht"},
-		{"square": "GO"},
-		{"square": "Satzung"},
+	// Organe der ZaPF
 		{"square": "Vertrauenspersonen"},
 		{"square": "StAPF"},
 		{"square": "TOPF"},
 		{"square": "KommGrem"},
+	// anderer offizieller Kram
+		{"square": "Satzungs&auml;nderung"},
+		{"square": "GO-&Auml;nderung"},
+		{"square": "ZaPF-Reader"},
+		{"square": "GO-Antrag"},
+		{"square": "GO"},
+		{"square": "Satzung"},
+		{"square": "ZaPF e.V."},
+		{"square": "ZaPF-Wiki"},
+	// Themen
+		{"square": "CHE"},
+		{"square": "Akkreditierung"},
+		{"square": "Crypto"},
+	// zukuenftige ZaPFen
 		{"square": "#ZaPFinHD"},
 		{"square": "#ZaPFamNeggah"},
-		{"square": "ZaPF e.V."},
-		{"square": "Bier-Bier-AK"},
+		{"square": "#ZaPFinDresden"},
+	// MeTaFa
 		{"square": "MeTaFa"},
-		{"square": "Folge-AK"},
-		{"square": "ZaPF-Wiki"},
-		{"square": "Fr&uuml;hst&uuml;ckstreppe"},
 		{"square": "KIF"},
 		{"square": "KoMa"},
+	// ZaPF Slang
+		{"square": "Soll hei&#223;t muss wenn kann!"},
+		{"square": "Bj&#246;rg"},
+		{"square": "Selbstbericht"},
+		{"square": "Bier-Bier-AK"},
+		{"square": "Folge-AK"},
 		{"square": "Kwawak"},
 		{"square": "ENTE ENTE ENTE!"},
 		{"square": "Konschdanz"},
-		{"square": "#ZaPFinDresden"},
-		{"square": "Satzungs&auml;nderung"},
-		{"square": "GO-&Auml;nderung"},
-		{"square": "CHE"},
-		{"square": "Akkreditierung"},
-		{"square": "ZaPF-Reader"},
-		{"square": "Crypto"},
+		{"square": "Fr&uuml;hst&uuml;ckstreppe"},
 	]
 };
