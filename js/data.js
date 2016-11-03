@@ -20,7 +20,6 @@ var JSONBingo = {"squares": [
 		{"square": "StAPF"},
 		{"square": "TOPF"},
 		{"square": "KommGrem"},
-		{"square": "#ZaPFamSee"},
 		{"square": "#ZaPFinHD"},
 		{"square": "#ZaPFamNeggah"},
 		{"square": "ZaPF e.V."},
@@ -34,5 +33,12 @@ var JSONBingo = {"squares": [
 		{"square": "Kwawak"},
 		{"square": "ENTE ENTE ENTE!"},
 		{"square": "Konschdanz"},
+		{"square": "#ZaPFinDresden"},
+		{"square": "Satzungs&auml;nderung"},
+		{"square": "GO-&Auml;nderung"},
+		{"square": "CHE"},
+		{"square": "Akkreditierung"},
+		{"square": "ZaPF-Reader"},
+		{"square": "Crypto"},
 	]
 };
